@@ -1,0 +1,17 @@
+Route Optimization and Delivery Assignment System
+------------------------------------------------
+
+Selected Delivery Partner: Delivery Partner 2
+Restaurant: Restaurant A
+Customer Location: Customer Home
+
+Shortest route from delivery partner to restaurant:
+Delivery Partner 2 -> City Center -> Restaurant A
+Distance: 7 km
+
+Shortest route from restaurant to customer:
+Restaurant A -> City Center -> Railway Station -> Customer Home
+Distance: 11 km
+
+Total optimized delivery distance: 18 km
+Estimated delivery time: 36 minutes
