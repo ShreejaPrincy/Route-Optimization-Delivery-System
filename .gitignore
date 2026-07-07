@@ -1,0 +1,5 @@
+*.exe
+*.out
+*.o
+route_optimizer
+.vscode/
